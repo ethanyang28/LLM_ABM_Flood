@@ -1,5 +1,11 @@
 # LLM-Driven Agent-Based Model for Flood Adaptation
 
+Citation:
+Ethan Yang, Y. C., & Chiou, W. (2026). Leveraging Large Language Models for Agent-Based Simulation of Human-Water System Interactions. Water Resources Research, 62(6), e2025WR042111. https://doi.org/10.1029/2025WR042111
+
+Open access: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025WR042111
+
+
 This repository contains a Python-based **Agent-Based Model (ABM)** that simulates how households adapt to long-term flood risks. Unlike traditional ABMs that use static rules, this simulation employs **Generative AI (Large Language Models via Ollama)** to drive agent decision-making.
 
 Agents behave according to **Protection Motivation Theory (PMT)**, weighing threat appraisals (severity, vulnerability) against coping appraisals (efficacy, cost) to make yearly decisions: **Do Nothing, Buy Insurance, Elevate House, or Relocate.**
