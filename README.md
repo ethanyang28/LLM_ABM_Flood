@@ -1,7 +1,7 @@
 # LLM-Driven Agent-Based Model for Flood Adaptation
 
 Citation:
-Ethan Yang, Y. C., & Chiou, W. (2026). Leveraging Large Language Models for Agent-Based Simulation of Human-Water System Interactions. Water Resources Research, 62(6), e2025WR042111. https://doi.org/10.1029/2025WR042111
+Yang, Y. C. E., & Chiou, W. (2026). Leveraging Large Language Models for Agent-Based Simulation of Human-Water System Interactions. Water Resources Research, 62(6), e2025WR042111. https://doi.org/10.1029/2025WR042111
 
 Open access: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025WR042111
 
